@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         Table table = new HashTable();
 
-        // Добавляем начальные значения
         table.put("1", "one");
         table.put("2", "two");
         table.put("3", "three");
